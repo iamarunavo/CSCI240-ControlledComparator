@@ -1,4 +1,3 @@
-# CSCI240-ControlledComparator
 ## Project: 4-Bit Controlled Comparator  
 
 ### Overview
